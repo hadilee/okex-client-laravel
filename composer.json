@@ -1,0 +1,18 @@
+{
+    "name": "hadi/okexclient",
+    "description": "A laravel client library for Okex",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Hadi Lee",
+            "email": "772066654@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Hadilee\\Okexclient": "src/"
+        }
+    }
+}
